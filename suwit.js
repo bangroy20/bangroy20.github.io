@@ -39,7 +39,7 @@ while (tanya) {
     }
     //   hasil = comp == "gunting" ? "KALAH" : "MENANG";
   } else {
-    hasil = "memasukan pilihan yang salah !!";
+    hasil = "gak bisa ngetik yah.. tulis sing bener ya !!";
   }
   alert(nama + ", Kamu memilih " + p + " Dan Syaifudin memilih " + comp + "\nkamu " + hasil);
 
